@@ -8,7 +8,7 @@
 This is my first ever flutter project and its a game that features separate flag icons which functionas buttons for the player to click. The player must guess the flag of the country displayed. Their score is tracked.
 
 ## Installation
-The game is written in Dart using the Flutter package which both need to be installed in order for the code to be used. I personally used the Android Studio IDE but you can use any IDE capable of running Flutter and writing code in Dart.
+The game is written in Dart using the Flutter package which both need to be installed in order for the code to be used. I personally used the Android Studio IDE but you can use any IDE capable of running Flutter and writing code in Dart. Be sure to install all of the appropriate fonts and image files needed for the game. You may need to edit your pubspec.yaml file for the game to function properly on your system.
 
 ## Contributing
 Pull requests are welcome. For major changes however please open up an issue for me to read before approving your change.
