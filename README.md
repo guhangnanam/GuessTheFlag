@@ -5,7 +5,7 @@
 ![image](https://github.com/guhangnanam/GuessTheFlag/assets/116681361/b8f99f6d-53d3-4c8d-a94f-665d037c9738)
 
 ## Details
-This is my first ever flutter project and its a game that features separate flag icons which functionas buttons for the player to click. The player must guess the flag of the country displayed. Their score is tracked.
+This is my first ever flutter project and its a game that features separate flag icons which function as buttons for the player to click. The player must guess the flag of the country displayed. Their score is tracked.
 
 ## Installation
 The game is written in Dart using the Flutter package which both need to be installed in order for the code to be used. I personally used the Android Studio IDE but you can use any IDE capable of running Flutter and writing code in Dart. Be sure to install all of the appropriate fonts and image files needed for the game. You may need to edit your pubspec.yaml file for the game to function properly on your system.
